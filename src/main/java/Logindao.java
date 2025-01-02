@@ -16,14 +16,9 @@ public class Logindao {
 		
 		System.out.println("from GitDemo1 from Logindao class2 architech2 changes");
 
-		
-		System.out.println("yyyy");
-
 		System.out.println("yyyyy");
 
-
-
-		System.out.println("sagar");
+		System.out.println("mane");
 		
 
 		String q="select * from Login1 where lmail=? and lpwd=?";
