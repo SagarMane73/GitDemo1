@@ -17,15 +17,8 @@ public class Logindao {
 		System.out.println("from GitDemo1 from Logindao class2 architech2 changes");
 
 
-		System.out.println("yyyyy");
-
-
-	
-
+		System.out.println("yyyyyrrrrrrr");
 		System.out.println("mane sagar");
-
-		
-
 
 		System.out.println("ppppppp");
 		System.out.println("mane sagar");
