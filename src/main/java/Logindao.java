@@ -17,12 +17,12 @@ public class Logindao {
 		System.out.println("from GitDemo1 from Logindao class2 architech2 changes");
 
 		System.out.println("yyyyy");
-<<<<<<< HEAD
 
-		System.out.println("mane");
-=======
+
+	
+
 		System.out.println("mane sagar");
->>>>>>> develop
+
 		
 
 		String q="select * from Login1 where lmail=? and lpwd=?";
